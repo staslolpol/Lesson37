@@ -2,8 +2,8 @@
 //впавпывпыпапр
 using namespace std;
 int main() {
-	cout <<"Testing";
-	cout <<"Testing";
+	cout <<"впавпывпыпапр";
+	cout <<"впавпывпыпапр";
 	cout <<"Testing";
 
 	return 0;
