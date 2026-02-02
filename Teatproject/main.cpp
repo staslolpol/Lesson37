@@ -1,8 +1,8 @@
-#include <iostream>
-//впавпывпыпапр
+п»ї#include <iostream>
+//РІРїР°РІРїС‹РІРїС‹РїР°РїСЂ
 using namespace std;
 int main() {
-	cout <<"впавпывпыпапр";
+	cout <<"РІРїР°РІРїС‹РІРїС‹РїР°РїСЂ";
 	cout <<"Testing";
 	cout <<"Testing";
 
